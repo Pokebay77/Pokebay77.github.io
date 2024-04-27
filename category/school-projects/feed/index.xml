@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>School Projects &#8211; The Smert Nation</title>
+	<atom:link href="/category/school-projects/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Dec 2021 14:58:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Tournamental Golf Iron Tool Feature Extravaganza</title>
+		<link>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/</link>
+					<comments>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 14:58:19 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=155</guid>
+
+					<description><![CDATA[ようこそ！ This month I was tasked with creating a feature for a tile based golf game. I&#8217;m not gonna lie here, at first I did not know how to do&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>ようこそ！ This month I was tasked with creating a feature for a tile based golf game. I&#8217;m not gonna lie here, at first I did not know how to do that. However with the grace of the interwebs, I was able to find some interesting references, specifically a game called Golf Peaks, a very simple golf puzzle game that happens to also be tile based. With my infinite wisdom I &#8220;borrowed&#8221; some of the mechanics from Golf Peaks and added them into my project. Now my version of Tournamental has the ability to pick up golf irons of different colors, each with their own ability. </p>
+
+
+
+<p>Red = move golf ball one square<br>Blue = move golf ball 3 squares<br>Green = jumps over the first square and ends in the second</p>
+
+
+
+<p>With these powers combined, I successfully created a prototype! Which you can watch \/</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="GolfIronPresentation" width="1100" height="619" src="https://www.youtube.com/embed/2MLUnjvTXcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>It was 9 in the morning, I went to sleep at midnight cause I was playing DnD, I was tired</figcaption></figure>
+
+
+
+<p>This is where I assumed this assignment would end.  HOWEVER, I was tasked with another assignment. That being, take another student&#8217;s feature and implement it in my project. I thought to myself, &#8220;wow, this is gonna be difficult.&#8221; I was looking at the projects made by other students, but alas, their features did not work well with mine. While searching through the darkness, there suddenly appeared a light, a sparkling, glowing light from within the depths. A scoring system! That&#8217;s right, a fellow classmate&#8217;s project introduced a scoring system based off of actual golf. *GASP* &#8220;This is the one&#8221; I yelled.  I quickly went to the drawing board and after a few days, cooked this puppy up. Enjoy!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Golf Iron Presentation 2.0" width="1100" height="619" src="https://www.youtube.com/embed/3zyARCYdusU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>Almost the same time as last time but I was more awake!</figcaption></figure>
+
+
+
+<p>Side note: I don&#8217;t know why, but when typing golf, I type gold instead. ¯\_(ツ)_/¯</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Level Design II: Spooky Level Thing</title>
+		<link>/2021/12/10/level-design-ii-spooky-level-thing/</link>
+					<comments>/2021/12/10/level-design-ii-spooky-level-thing/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Fri, 10 Dec 2021 12:55:11 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=129</guid>
+
+					<description><![CDATA[For this class, I was assigned to make a new feature for the game, and create a level around that feature. I had a somewhat difficult time deciding on what&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>For this class, I was assigned to make a new feature for the game, and create a level around that feature. I had a somewhat difficult time deciding on what feature to implement and how I should design my level. Originally, I was going to create an abandoned medieval town that the player explored and solved the mystery behind it. I then realized that this would take too much time and instead opted to do a &#8220;simple&#8221; puzzle map, where the player attempts to escape from a dungeon. <em>*1</em> </p>
+
+
+
+<p>If you want to see how I designed some of the levels, and coded one of the features, I did a few livestreams on it, so feel free to watch it if you want. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Unreal Engine Streams" width="1100" height="619" src="https://www.youtube.com/embed/videoseries?list=PL20GnSQO83BLFwal3new_ajmzwx3mBd9O" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>This is the video of my level for when I finished my Blockmesh.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Level Design 2 BlockMesh Level" width="1100" height="619" src="https://www.youtube.com/embed/2l2DZEo3JK0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>*1: My original sentence was &#8220;I then realized that that seemed like it would take to much time and opted to do a &#8220;simple&#8221; puzzle map, where you attempt to escape from a dungeon.&#8221;  But my translator did not like my use of the double that.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/10/level-design-ii-spooky-level-thing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My First Actual Level</title>
+		<link>/2021/08/25/my-first-actuall-level/</link>
+					<comments>/2021/08/25/my-first-actuall-level/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Thu, 26 Aug 2021 02:40:51 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=95</guid>
+
+					<description><![CDATA[After the previous blockmesh design, I joined a group for my school project where we combined our levels and actually added 3D models and textures. This bit was difficult as&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>After the previous blockmesh design, I joined a group for my school project where we combined our levels and actually added 3D models and textures. This bit was difficult as I had to find assets that would work for my level. I&#8217;m happy with how it turned out, but I wish I&#8217;d had more time to either find or create better assets.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="TeamEmerald Final Level" width="1100" height="619" src="https://www.youtube.com/embed/vuBqCJ6fc48?start=783&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>This is the start of my level.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/08/25/my-first-actuall-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First Blockmesh Level</title>
+		<link>/2021/08/25/first-blockmesh-level/</link>
+					<comments>/2021/08/25/first-blockmesh-level/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 13:19:01 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=39</guid>
+
+					<description><![CDATA[This is the first blockmesh level that I have ever created. It was a one month assignment for my class. Below I will show you the reference images I used&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>This is the first blockmesh level that I have ever created. It was a one month assignment for my class. Below I will show you the reference images I used as well as the final result of the blockmesh. I haven&#8217;t had much experience designing things like this in the past, but creating this level changed my perspective and gave me more motivation to work on similar projects in the future.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="13988" height="3890" src="/wp-content/uploads/2021/08/m_jurado_mb_levelstart-1.png?w=1024" alt="" data-id="86" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_levelstart-1/" class="wp-image-86" srcset="/wp-content/uploads/2021/08/m_jurado_mb_levelstart-1.png 13988w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-300x83.png 300w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-1024x285.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-768x214.png 768w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-1536x427.png 1536w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-2048x570.png 2048w" sizes="(max-width: 13988px) 100vw, 13988px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="16562" height="5264" src="/wp-content/uploads/2021/08/m_jurado_mb_focalpoint-1.png?w=1024" alt="" data-id="87" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_focalpoint-1/" class="wp-image-87" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="11501" height="3721" src="/wp-content/uploads/2021/08/m_jurado_mb_levelend-1.png?w=1024" alt="" data-id="88" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_levelend-1/" class="wp-image-88" srcset="/wp-content/uploads/2021/08/m_jurado_mb_levelend-1.png 11501w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-300x97.png 300w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-1024x331.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-768x248.png 768w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-1536x497.png 1536w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-2048x663.png 2048w" sizes="(max-width: 11501px) 100vw, 11501px" /></figure></li></ul></figure>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png?w=1024');background-position:20% 50%;"><img loading="lazy" decoding="async" width="1918" height="1040" src="/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png?w=1024" alt="" class="wp-image-74 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png 1918w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-300x163.png 300w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-1024x555.png 1024w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-768x416.png 768w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-1536x833.png 1536w" sizes="(max-width: 1918px) 100vw, 1918px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the start of my level. The player looks at a mountain with a cave entrance. There are two statues holding a sword, with the red square symbolizing a shield of some sort. (I realize I could have used a circle, but didn&#8217;t think of it at the time)</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png?w=1024');background-position:50% 50%;"><img loading="lazy" decoding="async" width="1916" height="1032" src="/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png?w=1024" alt="" class="wp-image-76 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png 1916w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-300x162.png 300w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-1024x552.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-768x414.png 768w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-1536x827.png 1536w" sizes="(max-width: 1916px) 100vw, 1916px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the focal point of my level. After the player goes through the mountain, they are presented with these ruins. The player can explore to find a few interacting parts, though you can&#8217;t actually see them in this image.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png?w=1024');background-position:50% 50%;"><img loading="lazy" decoding="async" width="1919" height="1040" src="/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png?w=1024" alt="" class="wp-image-78 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png 1919w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-300x163.png 300w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-1024x555.png 1024w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-768x416.png 768w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-1536x832.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the level&#8217;s end, where the player finishes climbing the cliff of a mountain and finds the sword Excaliber. (The only issue with this section is that you can see into the endless void that is space)</p>
+</div></div>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="LevelDesignPitch" width="1100" height="619" src="https://www.youtube.com/embed/ith6GacyuC0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>This is my video talking about the level.</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/08/25/first-blockmesh-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

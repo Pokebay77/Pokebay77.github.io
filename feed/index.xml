@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Smert Nation</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 02 Apr 2024 22:04:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<item>
+		<title>Divine Adventures Project</title>
+		<link>/2024/04/02/divine-adventures/</link>
+					<comments>/2024/04/02/divine-adventures/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2024 22:04:54 +0000</pubDate>
+				<category><![CDATA[Personal Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=319</guid>
+
+					<description><![CDATA[After making The Demons Gambit, I wanted to try another combat style, turn base. Everything I have done before has always been real time combat. So now I wanted to&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>After making The Demons Gambit, I wanted to try another combat style, turn base. Everything I have done before has always been real time combat. So now I wanted to branch out and do a completely different style of combat. I recently finished playing the game Evenicle and really fell in love with everything about it, do I decided to use that game as my reference.&nbsp;</p>
+
+
+
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img fetchpriority="high" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-326" data-id="326" src="/wp-content/uploads/2024/04/mainmenu-2.png?w=750" srcset="/wp-content/uploads/2024/04/mainmenu-2.png 1919w, /wp-content/uploads/2024/04/mainmenu-2-300x169.png 300w, /wp-content/uploads/2024/04/mainmenu-2-1024x576.png 1024w, /wp-content/uploads/2024/04/mainmenu-2-768x432.png 768w, /wp-content/uploads/2024/04/mainmenu-2-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-323" data-id="323" src="/wp-content/uploads/2024/04/visual-novel-1.png?w=750" srcset="/wp-content/uploads/2024/04/visual-novel-1.png 1919w, /wp-content/uploads/2024/04/visual-novel-1-300x169.png 300w, /wp-content/uploads/2024/04/visual-novel-1-1024x576.png 1024w, /wp-content/uploads/2024/04/visual-novel-1-768x432.png 768w, /wp-content/uploads/2024/04/visual-novel-1-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-328" data-id="328" src="/wp-content/uploads/2024/04/finstatsscreen.png?w=750" srcset="/wp-content/uploads/2024/04/finstatsscreen.png 1919w, /wp-content/uploads/2024/04/finstatsscreen-300x169.png 300w, /wp-content/uploads/2024/04/finstatsscreen-1024x576.png 1024w, /wp-content/uploads/2024/04/finstatsscreen-768x432.png 768w, /wp-content/uploads/2024/04/finstatsscreen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-331" data-id="331" src="/wp-content/uploads/2024/04/finskillscreen.png?w=750" srcset="/wp-content/uploads/2024/04/finskillscreen.png 1919w, /wp-content/uploads/2024/04/finskillscreen-300x169.png 300w, /wp-content/uploads/2024/04/finskillscreen-1024x576.png 1024w, /wp-content/uploads/2024/04/finskillscreen-768x432.png 768w, /wp-content/uploads/2024/04/finskillscreen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-330" data-id="330" src="/wp-content/uploads/2024/04/finequipmentscreen.png?w=750" srcset="/wp-content/uploads/2024/04/finequipmentscreen.png 1919w, /wp-content/uploads/2024/04/finequipmentscreen-300x169.png 300w, /wp-content/uploads/2024/04/finequipmentscreen-1024x576.png 1024w, /wp-content/uploads/2024/04/finequipmentscreen-768x432.png 768w, /wp-content/uploads/2024/04/finequipmentscreen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-341" data-id="341" src="/wp-content/uploads/2024/04/inventory-screen.png?w=750" srcset="/wp-content/uploads/2024/04/inventory-screen.png 1919w, /wp-content/uploads/2024/04/inventory-screen-300x169.png 300w, /wp-content/uploads/2024/04/inventory-screen-1024x576.png 1024w, /wp-content/uploads/2024/04/inventory-screen-768x432.png 768w, /wp-content/uploads/2024/04/inventory-screen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-346" data-id="346" src="/wp-content/uploads/2024/04/townmenu.png?w=750" srcset="/wp-content/uploads/2024/04/townmenu.png 1919w, /wp-content/uploads/2024/04/townmenu-300x169.png 300w, /wp-content/uploads/2024/04/townmenu-1024x576.png 1024w, /wp-content/uploads/2024/04/townmenu-768x432.png 768w, /wp-content/uploads/2024/04/townmenu-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-342" data-id="342" src="/wp-content/uploads/2024/04/itemshop.png?w=750" srcset="/wp-content/uploads/2024/04/itemshop.png 1919w, /wp-content/uploads/2024/04/itemshop-300x169.png 300w, /wp-content/uploads/2024/04/itemshop-1024x576.png 1024w, /wp-content/uploads/2024/04/itemshop-768x432.png 768w, /wp-content/uploads/2024/04/itemshop-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-344" data-id="344" src="/wp-content/uploads/2024/04/sellitemshop.png?w=750" srcset="/wp-content/uploads/2024/04/sellitemshop.png 1919w, /wp-content/uploads/2024/04/sellitemshop-300x169.png 300w, /wp-content/uploads/2024/04/sellitemshop-1024x576.png 1024w, /wp-content/uploads/2024/04/sellitemshop-768x432.png 768w, /wp-content/uploads/2024/04/sellitemshop-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-347" data-id="347" src="/wp-content/uploads/2024/04/blacksmith-shop.png?w=750" srcset="/wp-content/uploads/2024/04/blacksmith-shop.png 1919w, /wp-content/uploads/2024/04/blacksmith-shop-300x169.png 300w, /wp-content/uploads/2024/04/blacksmith-shop-1024x576.png 1024w, /wp-content/uploads/2024/04/blacksmith-shop-768x432.png 768w, /wp-content/uploads/2024/04/blacksmith-shop-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-345" data-id="345" src="/wp-content/uploads/2024/04/towermenu.png?w=750" srcset="/wp-content/uploads/2024/04/towermenu.png 1919w, /wp-content/uploads/2024/04/towermenu-300x169.png 300w, /wp-content/uploads/2024/04/towermenu-1024x576.png 1024w, /wp-content/uploads/2024/04/towermenu-768x432.png 768w, /wp-content/uploads/2024/04/towermenu-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-348" data-id="348" src="/wp-content/uploads/2024/04/celeste.png?w=750" srcset="/wp-content/uploads/2024/04/celeste.png 1919w, /wp-content/uploads/2024/04/celeste-300x169.png 300w, /wp-content/uploads/2024/04/celeste-1024x576.png 1024w, /wp-content/uploads/2024/04/celeste-768x432.png 768w, /wp-content/uploads/2024/04/celeste-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-343" data-id="343" src="/wp-content/uploads/2024/04/kaila.png?w=750" srcset="/wp-content/uploads/2024/04/kaila.png 1919w, /wp-content/uploads/2024/04/kaila-300x169.png 300w, /wp-content/uploads/2024/04/kaila-1024x576.png 1024w, /wp-content/uploads/2024/04/kaila-768x432.png 768w, /wp-content/uploads/2024/04/kaila-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-329" data-id="329" src="/wp-content/uploads/2024/04/questscreen.png?w=750" srcset="/wp-content/uploads/2024/04/questscreen.png 1919w, /wp-content/uploads/2024/04/questscreen-300x169.png 300w, /wp-content/uploads/2024/04/questscreen-1024x576.png 1024w, /wp-content/uploads/2024/04/questscreen-768x432.png 768w, /wp-content/uploads/2024/04/questscreen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-350" data-id="350" src="/wp-content/uploads/2024/04/combat-1.png?w=750" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-349" data-id="349" src="/wp-content/uploads/2024/04/combat-1-2.png?w=750" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-340" data-id="340" src="/wp-content/uploads/2024/04/endofcombatscreen.png?w=750" srcset="/wp-content/uploads/2024/04/endofcombatscreen.png 1919w, /wp-content/uploads/2024/04/endofcombatscreen-300x169.png 300w, /wp-content/uploads/2024/04/endofcombatscreen-1024x576.png 1024w, /wp-content/uploads/2024/04/endofcombatscreen-768x432.png 768w, /wp-content/uploads/2024/04/endofcombatscreen-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+
+
+
+<p>The gameplay video shows off most of the mechanics in the game. Unfortunately the boss fight somehow broke since the last time I have touched this game so I unfortunately couldn&#8217;t show it off <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It&#8217;s 30ish minutes soooo yah. I have photos and stuff of the menus so that you can get a quick look at it.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Divine Adventure Gameplay" width="1100" height="619" src="https://www.youtube.com/embed/9kd2KwKGSSc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Unlike the other games that I have worked on, this project was initially supposed to be me, recreating the mechanics of evenicle and modifying it very slightly. Just so that I can 1, understand how to develop that style of game. 2, further my knowledge of unreal. and 3, try to come up with a dumb funny story.&nbsp;</p>
+
+
+
+<p>Before leaving to Japan, I wanted to finish developing the game. However I unfortunately ran out of time and had to quickly finish the game. Because of that there are still some bugs to work out, balance the numbers, and the game just kinda ends after the final fight. I am still pretty pleased with what I was able to do in a relatively short amount of time.</p>
+
+
+
+<p>Coming back from Japan, I wanted to revisit my idea and try to add and change a few mechanics so that it is not as similar to Evenicle.</p>
+
+
+
+<p>Here is the new Game Design Document for it: <a href="https://docs.google.com/document/d/1nhJQClZTPvOhEiuDjIoe-S2en9mvppMPC1-DTFdF_OI/edit?usp=sharing">https://docs.google.com/document/d/1nhJQClZTPvOhEiuDjIoe-S2en9mvppMPC1-DTFdF_OI/edit?usp=sharing</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/02/divine-adventures/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Demons Gambit Project</title>
+		<link>/2023/05/25/the-demons-gambit-project/</link>
+					<comments>/2023/05/25/the-demons-gambit-project/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Thu, 25 May 2023 23:38:54 +0000</pubDate>
+				<category><![CDATA[Personal Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=293</guid>
+
+					<description><![CDATA[Alright, it&#8217;s here, after working on Losekai I had another idea that I wanted to create. I decided to take a step back from certain game mechanics and focus more&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Alright, it&#8217;s here, after working on Losekai I had another idea that I wanted to create. I decided to take a step back from certain game mechanics and focus more on the combat. I received inspiration after playing Senran Kagura and used that as the base for my design. Before starting to work on the game, I wanted to create a design document of sort, so that I can organize all of my ideas. Linked below is said document.</p>
+
+
+
+<p><a href="https://docs.google.com/document/d/128d_onvK4wVPCi6WTT3AR5ETF2gd2elDYdCwkh9Jc6k/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Game Design Document</a></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-300" data-id="300" src="/wp-content/uploads/2023/05/screenshot_1.png" srcset="/wp-content/uploads/2023/05/screenshot_1.png 1919w, /wp-content/uploads/2023/05/screenshot_1-300x169.png 300w, /wp-content/uploads/2023/05/screenshot_1-1024x576.png 1024w, /wp-content/uploads/2023/05/screenshot_1-768x432.png 768w, /wp-content/uploads/2023/05/screenshot_1-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-301" data-id="301" src="/wp-content/uploads/2023/05/screenshot_2.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-302" data-id="302" src="/wp-content/uploads/2023/05/screenshot_3-1.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-303" data-id="303" src="/wp-content/uploads/2023/05/screenshot_4.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-304" data-id="304" src="/wp-content/uploads/2023/05/screenshot_5.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-307" data-id="307" src="/wp-content/uploads/2023/05/screenshot_8.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-305" data-id="305" src="/wp-content/uploads/2023/05/screenshot_6.png" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" alt="" class="wp-block-jetpack-slideshow_image wp-image-306" data-id="306" src="/wp-content/uploads/2023/05/screenshot_7.png" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+</div>
+</div>
+
+
+
+<p>When designing the core ability system for my game, my main inspiration was Fate/kaleid liner Prisma Illya. In this anime, the main character has the ability to transform themselves into different servants with those servants abilities. I belived that this would be a creative game mechanic so I thought of some ways to implement them. For this, I decided to go down the chess root, where the player is a pawn and can promote themselves to any piece they want.</p>
+
+
+
+<p>Then, I wanted to find an interesting balance on why the player might want to play a certain piece. To do this I gave each piece their own passive abilities to differentiate themselves. However, for the pawn, they have generic abilities you would expect,  but then I gave the pawn the unique ability to be able to equip active abilities from other classes, making the pawn the most versatile.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="DemonsGambitDisplay" width="1100" height="619" src="https://www.youtube.com/embed/5yu7GuQnmLY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/05/25/the-demons-gambit-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Losekai Project</title>
+		<link>/2023/05/24/losekai-project/</link>
+					<comments>/2023/05/24/losekai-project/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Wed, 24 May 2023 21:13:16 +0000</pubDate>
+				<category><![CDATA[Personal Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=227</guid>
+
+					<description><![CDATA[Hello and welcome to my Losekai Project. I created this project so that I can combine all of my knowledge of my past projects into one. The main aspect that&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Hello and welcome to my Losekai Project. I created this project so that I can combine all of my knowledge of my past projects into one. The main aspect that I wanted for this game was to be a semi open world game with RPG elements and the core being the Magic System. I wanted to create a magic system inspired by a character in an anime called Highschool DxD. The main character has a passive Magic System that will increase the character physical abilities and later in the show he develops an active magic system. I really liked that idea and tried to gamify it an a balanced way.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-240" data-id="240" src="/wp-content/uploads/2023/05/l_image1.png" srcset="/wp-content/uploads/2023/05/l_image1.png 1919w, /wp-content/uploads/2023/05/l_image1-300x169.png 300w, /wp-content/uploads/2023/05/l_image1-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image1-768x432.png 768w, /wp-content/uploads/2023/05/l_image1-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-238" data-id="238" src="/wp-content/uploads/2023/05/l_image4.png" srcset="/wp-content/uploads/2023/05/l_image4.png 1919w, /wp-content/uploads/2023/05/l_image4-300x169.png 300w, /wp-content/uploads/2023/05/l_image4-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image4-768x432.png 768w, /wp-content/uploads/2023/05/l_image4-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-241" data-id="241" src="/wp-content/uploads/2023/05/l_image6.png" srcset="/wp-content/uploads/2023/05/l_image6.png 1919w, /wp-content/uploads/2023/05/l_image6-300x169.png 300w, /wp-content/uploads/2023/05/l_image6-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image6-768x432.png 768w, /wp-content/uploads/2023/05/l_image6-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-236" data-id="236" src="/wp-content/uploads/2023/05/l_image3.png" srcset="/wp-content/uploads/2023/05/l_image3.png 1919w, /wp-content/uploads/2023/05/l_image3-300x169.png 300w, /wp-content/uploads/2023/05/l_image3-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image3-768x432.png 768w, /wp-content/uploads/2023/05/l_image3-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-243" data-id="243" src="/wp-content/uploads/2023/05/l_image2.png" srcset="/wp-content/uploads/2023/05/l_image2.png 1919w, /wp-content/uploads/2023/05/l_image2-300x169.png 300w, /wp-content/uploads/2023/05/l_image2-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image2-768x432.png 768w, /wp-content/uploads/2023/05/l_image2-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-237" data-id="237" src="/wp-content/uploads/2023/05/l_image5.png" srcset="/wp-content/uploads/2023/05/l_image5.png 1919w, /wp-content/uploads/2023/05/l_image5-300x169.png 300w, /wp-content/uploads/2023/05/l_image5-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image5-768x432.png 768w, /wp-content/uploads/2023/05/l_image5-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-239" data-id="239" src="/wp-content/uploads/2023/05/l_image8.png" srcset="/wp-content/uploads/2023/05/l_image8.png 1919w, /wp-content/uploads/2023/05/l_image8-300x169.png 300w, /wp-content/uploads/2023/05/l_image8-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image8-768x432.png 768w, /wp-content/uploads/2023/05/l_image8-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img loading="lazy" decoding="async" width="1919" height="1079" alt="" class="wp-block-jetpack-slideshow_image wp-image-245" data-id="245" src="/wp-content/uploads/2023/05/l_image7-1.png" srcset="/wp-content/uploads/2023/05/l_image7-1.png 1919w, /wp-content/uploads/2023/05/l_image7-1-300x169.png 300w, /wp-content/uploads/2023/05/l_image7-1-1024x576.png 1024w, /wp-content/uploads/2023/05/l_image7-1-768x432.png 768w, /wp-content/uploads/2023/05/l_image7-1-1536x864.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+</div>
+</div>
+
+
+
+<p>The game currently has all the mechanics you would expect from a RPG. Stats, Inventory,  and Quest Menu, ect. I opted for a real time action combat slightly similar to souls like. The player has the ability to attack using light or heavy attacks as well has as the ability to roll out of the way from incoming enemy attacks. The game also features a simple quest system where the player can interact with NPCs to get quests and rewards when completing them.</p>
+
+
+
+<p>Now for the &#8220;unique&#8221; part of my game. Like I said in the first paragraph, 4th line, 4th sentence, I was inspired by an anime to make a &#8220;Boost&#8221; like upgrading magic system. The way the magic works is by attacking an enemy. The more you attack an enemy the more your Boost Gauge will increase. When it reaches the max threshold, the character will enter Boost Level 1. Depending on what passive abilities the player has unlocked, depends on what happens when you Boost. In order for the player to gain Magic EXP to unlock abilities, the player must kill enemies and eat/consume, yes eat/consume, their crystal. why? I don&#8217;t know, why not.</p>
+
+
+
+<p>Here is a video briefly showing off the game mechanics.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Prototype - Losekai" width="1100" height="619" src="https://www.youtube.com/embed/TT1xvYUGZXI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Looking back after making this prototype, I feel like the animations feel a bit to stiff as well as the AI/interacting with the enemy while fighting looks a bit off. The hardest thing that I worked on in this project is the AI of the enemy and how they interact with the player while fighting. Another issue I had was transferring the players data when going through the different levels. At the time of making this prototype, I have never done level streaming, because of this, transferring the data became a tedious task that caused a lot of headaches.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/05/24/losekai-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tournamental Golf Iron Tool Feature Extravaganza</title>
+		<link>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/</link>
+					<comments>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 14:58:19 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=155</guid>
+
+					<description><![CDATA[ようこそ！ This month I was tasked with creating a feature for a tile based golf game. I&#8217;m not gonna lie here, at first I did not know how to do&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>ようこそ！ This month I was tasked with creating a feature for a tile based golf game. I&#8217;m not gonna lie here, at first I did not know how to do that. However with the grace of the interwebs, I was able to find some interesting references, specifically a game called Golf Peaks, a very simple golf puzzle game that happens to also be tile based. With my infinite wisdom I &#8220;borrowed&#8221; some of the mechanics from Golf Peaks and added them into my project. Now my version of Tournamental has the ability to pick up golf irons of different colors, each with their own ability. </p>
+
+
+
+<p>Red = move golf ball one square<br>Blue = move golf ball 3 squares<br>Green = jumps over the first square and ends in the second</p>
+
+
+
+<p>With these powers combined, I successfully created a prototype! Which you can watch \/</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="GolfIronPresentation" width="1100" height="619" src="https://www.youtube.com/embed/2MLUnjvTXcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>It was 9 in the morning, I went to sleep at midnight cause I was playing DnD, I was tired</figcaption></figure>
+
+
+
+<p>This is where I assumed this assignment would end.  HOWEVER, I was tasked with another assignment. That being, take another student&#8217;s feature and implement it in my project. I thought to myself, &#8220;wow, this is gonna be difficult.&#8221; I was looking at the projects made by other students, but alas, their features did not work well with mine. While searching through the darkness, there suddenly appeared a light, a sparkling, glowing light from within the depths. A scoring system! That&#8217;s right, a fellow classmate&#8217;s project introduced a scoring system based off of actual golf. *GASP* &#8220;This is the one&#8221; I yelled.  I quickly went to the drawing board and after a few days, cooked this puppy up. Enjoy!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Golf Iron Presentation 2.0" width="1100" height="619" src="https://www.youtube.com/embed/3zyARCYdusU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>Almost the same time as last time but I was more awake!</figcaption></figure>
+
+
+
+<p>Side note: I don&#8217;t know why, but when typing golf, I type gold instead. ¯\_(ツ)_/¯</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/15/tournamental-golf-iron-tool-feature-extravaganza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Level Design II: Spooky Level Thing</title>
+		<link>/2021/12/10/level-design-ii-spooky-level-thing/</link>
+					<comments>/2021/12/10/level-design-ii-spooky-level-thing/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Fri, 10 Dec 2021 12:55:11 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=129</guid>
+
+					<description><![CDATA[For this class, I was assigned to make a new feature for the game, and create a level around that feature. I had a somewhat difficult time deciding on what&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>For this class, I was assigned to make a new feature for the game, and create a level around that feature. I had a somewhat difficult time deciding on what feature to implement and how I should design my level. Originally, I was going to create an abandoned medieval town that the player explored and solved the mystery behind it. I then realized that this would take too much time and instead opted to do a &#8220;simple&#8221; puzzle map, where the player attempts to escape from a dungeon. <em>*1</em> </p>
+
+
+
+<p>If you want to see how I designed some of the levels, and coded one of the features, I did a few livestreams on it, so feel free to watch it if you want. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Unreal Engine Streams" width="1100" height="619" src="https://www.youtube.com/embed/videoseries?list=PL20GnSQO83BLFwal3new_ajmzwx3mBd9O" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>This is the video of my level for when I finished my Blockmesh.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Level Design 2 BlockMesh Level" width="1100" height="619" src="https://www.youtube.com/embed/2l2DZEo3JK0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>*1: My original sentence was &#8220;I then realized that that seemed like it would take to much time and opted to do a &#8220;simple&#8221; puzzle map, where you attempt to escape from a dungeon.&#8221;  But my translator did not like my use of the double that.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/12/10/level-design-ii-spooky-level-thing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My First Actual Level</title>
+		<link>/2021/08/25/my-first-actuall-level/</link>
+					<comments>/2021/08/25/my-first-actuall-level/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Thu, 26 Aug 2021 02:40:51 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=95</guid>
+
+					<description><![CDATA[After the previous blockmesh design, I joined a group for my school project where we combined our levels and actually added 3D models and textures. This bit was difficult as&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>After the previous blockmesh design, I joined a group for my school project where we combined our levels and actually added 3D models and textures. This bit was difficult as I had to find assets that would work for my level. I&#8217;m happy with how it turned out, but I wish I&#8217;d had more time to either find or create better assets.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="TeamEmerald Final Level" width="1100" height="619" src="https://www.youtube.com/embed/vuBqCJ6fc48?start=783&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>This is the start of my level.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/08/25/my-first-actuall-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>First Blockmesh Level</title>
+		<link>/2021/08/25/first-blockmesh-level/</link>
+					<comments>/2021/08/25/first-blockmesh-level/#respond</comments>
+		
+		<dc:creator><![CDATA[TheSmertKing77]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 13:19:01 +0000</pubDate>
+				<category><![CDATA[School Projects]]></category>
+		<guid isPermaLink="false">https://thesmertnation.wordpress.com/?p=39</guid>
+
+					<description><![CDATA[This is the first blockmesh level that I have ever created. It was a one month assignment for my class. Below I will show you the reference images I used&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>This is the first blockmesh level that I have ever created. It was a one month assignment for my class. Below I will show you the reference images I used as well as the final result of the blockmesh. I haven&#8217;t had much experience designing things like this in the past, but creating this level changed my perspective and gave me more motivation to work on similar projects in the future.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="13988" height="3890" src="/wp-content/uploads/2021/08/m_jurado_mb_levelstart-1.png?w=1024" alt="" data-id="86" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_levelstart-1/" class="wp-image-86" srcset="/wp-content/uploads/2021/08/m_jurado_mb_levelstart-1.png 13988w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-300x83.png 300w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-1024x285.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-768x214.png 768w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-1536x427.png 1536w, /wp-content/uploads/2021/08/m_jurado_mb_levelstart-1-2048x570.png 2048w" sizes="(max-width: 13988px) 100vw, 13988px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="16562" height="5264" src="/wp-content/uploads/2021/08/m_jurado_mb_focalpoint-1.png?w=1024" alt="" data-id="87" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_focalpoint-1/" class="wp-image-87" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="11501" height="3721" src="/wp-content/uploads/2021/08/m_jurado_mb_levelend-1.png?w=1024" alt="" data-id="88" data-link="https://thesmertnation.wordpress.com/m_jurado_mb_levelend-1/" class="wp-image-88" srcset="/wp-content/uploads/2021/08/m_jurado_mb_levelend-1.png 11501w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-300x97.png 300w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-1024x331.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-768x248.png 768w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-1536x497.png 1536w, /wp-content/uploads/2021/08/m_jurado_mb_levelend-1-2048x663.png 2048w" sizes="(max-width: 11501px) 100vw, 11501px" /></figure></li></ul></figure>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png?w=1024');background-position:20% 50%;"><img loading="lazy" decoding="async" width="1918" height="1040" src="/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png?w=1024" alt="" class="wp-image-74 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1.png 1918w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-300x163.png 300w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-1024x555.png 1024w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-768x416.png 768w, /wp-content/uploads/2021/08/m_jurado_bm1_levelstart-1-1536x833.png 1536w" sizes="(max-width: 1918px) 100vw, 1918px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the start of my level. The player looks at a mountain with a cave entrance. There are two statues holding a sword, with the red square symbolizing a shield of some sort. (I realize I could have used a circle, but didn&#8217;t think of it at the time)</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png?w=1024');background-position:50% 50%;"><img loading="lazy" decoding="async" width="1916" height="1032" src="/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png?w=1024" alt="" class="wp-image-76 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_mb1_focalpoint.png 1916w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-300x162.png 300w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-1024x552.png 1024w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-768x414.png 768w, /wp-content/uploads/2021/08/m_jurado_mb1_focalpoint-1536x827.png 1536w" sizes="(max-width: 1916px) 100vw, 1916px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the focal point of my level. After the player goes through the mountain, they are presented with these ruins. The player can explore to find a few interacting parts, though you can&#8217;t actually see them in this image.</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill" style="grid-template-columns:38% auto;"><figure class="wp-block-media-text__media" style="background-image:url('/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png?w=1024');background-position:50% 50%;"><img loading="lazy" decoding="async" width="1919" height="1040" src="/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png?w=1024" alt="" class="wp-image-78 size-large" srcset="/wp-content/uploads/2021/08/m_jurado_bm1_levelend.png 1919w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-300x163.png 300w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-1024x555.png 1024w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-768x416.png 768w, /wp-content/uploads/2021/08/m_jurado_bm1_levelend-1536x832.png 1536w" sizes="(max-width: 1919px) 100vw, 1919px" /></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size">This is the level&#8217;s end, where the player finishes climbing the cliff of a mountain and finds the sword Excaliber. (The only issue with this section is that you can see into the endless void that is space)</p>
+</div></div>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="LevelDesignPitch" width="1100" height="619" src="https://www.youtube.com/embed/ith6GacyuC0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption>This is my video talking about the level.</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/08/25/first-blockmesh-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
